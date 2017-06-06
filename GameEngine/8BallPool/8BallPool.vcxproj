@@ -71,7 +71,7 @@
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <LinkIncremental>true</LinkIncremental>
-    <LibraryPath>C:\Users\mbhargava\Desktop\8BallPool\GameEngine\Lib;C:\Users\mbhargava\Desktop\8BallPool\GameEngine\Debug;$(LibraryPath)</LibraryPath>
+    <LibraryPath>%userprofile%\Desktop\8BallPool_bitbucket\GameEngine\Lib;C:\Users\mbhargava\Desktop\8BallPool_bitbucket\GameEngine\Debug;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <LinkIncremental>true</LinkIncremental>
